@@ -77,7 +77,7 @@ CORS(app)  # Enable CORS for cross-origin requests
 
 # MongoDB Configuration
 class Config:
-    MONGO_URI = 'mongodb+srv://baskar:baskar@cluster0.wggpe.mongodb.net/todo_db'
+    MONGO_URI = 'mongodb://localhost:27017/todo_db'
 
 # Initialize MongoDB Connection
 client = MongoClient(Config.MONGO_URI)
