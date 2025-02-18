@@ -28,8 +28,8 @@ Make sure you have **Node.js**, **Python**, and **MongoDB Atlas** set up.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/todolist-app.git
-cd todolist-app
+git clone https://github.com/baskarlmca2023/react-python-todolist.git
+cd react-python-todolist
 ```
 
 ---
@@ -108,7 +108,7 @@ DELETE /todos/{title}
 ## Output Screenshot
 Below is a screenshot of the working To-Do List application:
 
-![To-Do List App Screenshot](images/Screenshot_2025-02-18_103705.png)
+!(images/Screenshot_2025-02-18_103705.png)
 
 ## Future Improvements
 - Edit tasks functionality
