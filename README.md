@@ -115,7 +115,7 @@ DELETE /todos/{title}
 ## Output Screenshot
 Below is a screenshot of the working To-Do List application:
 
-![To-Do List App Screenshot]images/Screenshot 2025-02-18 103705.png
+![To-Do List App Screenshot](images/Screenshot2025-02-18103705.png)
 
 ## Future Improvements
 - Edit tasks functionality
