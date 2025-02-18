@@ -13,7 +13,7 @@ A simple To-Do List app built using React.js for the frontend, Flask for the bac
 
 ### Frontend
 - React.js
-- Tailwind CSS (for styling)
+- CSS
 - Axios (for API requests)
 
 ### Backend
