@@ -109,7 +109,7 @@ DELETE /todos/{title}
 Below is a screenshot of the working To-Do List application:
 
 
-![To-Do List App Screenshot](ToDolist/Screenshot_2025-02-18_103705.png)
+![To-Do List App Screenshot](React-Python-ToDoList/ToDolist/Screenshot_2025-02-18_103705.png)
 
 ## Future Improvements
 - Edit tasks functionality
