@@ -49,7 +49,7 @@ cd todolist-app
    ```
 4. Create a **.env** file and add your MongoDB Atlas URI:
    ```sh
-   MONGO_URI='your_mongodb_atlas_connection_string'
+   MONGO_URI='mongodb://localhost:27017/Todolist'
    ```
 5. Run the backend server:
    ```sh
@@ -105,6 +105,11 @@ DELETE /todos/{title}
 │── README.md (Project documentation)
 ```
 
+## Output Screenshot
+Below is a screenshot of the working To-Do List application:
+
+![To-Do List App Screenshot](./screenshot.png)
+
 ## Future Improvements
 - Edit tasks functionality
 - User authentication (login/signup)
@@ -116,6 +121,4 @@ This project is open-source and available under the **MIT License**.
 ---
 ## Author
 👤 **Your Name**  
-🔗 [GitHub](https://github.com/yourusername)
-
-
+🔗 [GitHub](https://github.com/baskarlmca2023)
